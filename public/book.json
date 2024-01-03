@@ -1,0 +1,57 @@
+[
+  {
+    "_id": "62d45a343cd1b2996558dc8b",
+    "picture": "https://images-na.ssl-images-amazon.com/images/I/41t+5gUqXYL._AC_SX184_.jpg",
+    "price": 752,
+    "name":"ORWELL"
+  },
+  {
+    "_id": "62d45a340d9ad2156b27de23",
+    "picture": "https://images-na.ssl-images-amazon.com/images/I/41OYjTKJ8eL._AC_SX184_.jpg",
+    "price": 740,
+    "name":"THE ROAD"
+  },
+  {
+    "_id": "62d45a34ad4403a0e0514baf",
+    "picture": "https://images-na.ssl-images-amazon.com/images/I/41i6RKW1IXL._AC_SX184_.jpg",
+    "price": 772,
+    "name":"DEVIL"
+  },
+  {
+    "_id": "62d45a34d813ca52906b80ec",
+    "picture": "https://images-na.ssl-images-amazon.com/images/I/41y+KF7FHZL._AC_SX184_.jpg",
+    "price": 924,
+    "name":"MIDDLENIGHT"
+  },
+  {
+    "_id": "62d45a34af4e441f251b5673",
+    "picture": "https://images-na.ssl-images-amazon.com/images/I/41oR8CLl6lL._AC_SX184_.jpg",
+    "price": 974,
+    "name":"GILLIAN"
+  },
+  {
+    "_id": "62d45a346116d2042d7603bb",
+    "picture": "https://images-na.ssl-images-amazon.com/images/I/41qI9quGIdL._AC_SX184_.jpg",
+    "price": 624,
+    "name":"PAHRENHEIT"
+  },
+  {
+    "_id": "62d45a34713c9e999b6ccd8e",
+    "picture": "https://images-na.ssl-images-amazon.com/images/I/51znoqd9roL._AC_SX184_.jpg",
+    "price": 395,
+    "name":"DIARY OF KIT"
+  },
+  {
+    "_id": "62d45a347aa6ce4fe5c55655",
+    "picture": "https://images-na.ssl-images-amazon.com/images/I/51EPqZ9kFnL._AC_SX184_.jpg",
+    "price": 727,
+    "name":"YOUNG GIRL"
+  },
+  {
+    "_id": "62d45a348f3b5ada7baf5339",
+    "picture": "https://images-na.ssl-images-amazon.com/images/I/41SG4SO4T9L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "price": 519,
+    "name":"IKIGAI"
+  }
+
+]
